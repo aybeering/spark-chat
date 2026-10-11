@@ -1,0 +1,6 @@
+{
+  "name": "SynapseMatch - 商业合作画像与去中心化撮合平台",
+  "description": "基于AI深度解析简历生成精准商业合作画像，每周推荐5位高互补商业伙伴，支持3D卡片旋转、一键邀约、智能协商与双向日历同步，集成Solana钱包公平去中心化支付。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
